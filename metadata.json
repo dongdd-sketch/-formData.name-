@@ -1,0 +1,6 @@
+{
+  "name": "Theo dõi Chuyển đổi số (Enterprise DX Tracker)",
+  "description": "Bảng điều khiển tổng quan và quản lý danh mục dự án chuyển đổi số (DX), hỗ trợ theo dõi chỉ số CR, tiết kiệm thời gian và tiến độ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
